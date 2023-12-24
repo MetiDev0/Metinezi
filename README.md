@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Metinezi
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JS and React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
 
 <!---
