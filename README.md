@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Metinezi
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JS and React
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me ...
+🚀 Hi, I'm [Dein Name]!
+👨‍💻 Self-Taught Developer | 💡 Tech Enthusiast | 🔐 Cyber Security & Web Dev
 
-<!---
-Metinezi/Metinezi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Leidenschaft für Full-Stack-Entwicklung & Cyber Security
+🚀 Lernender auf dem Weg zum Profi – täglich besser!
+📂 Arbeite an Open-Source-Projekten & praktischen Lösungen
+📚 Ständige Weiterbildung in Webentwicklung, DevOps & KI
+🌱 Aktuell lerne ich:
+🛡️ Web Security & Ethical Hacking
+🔥 DevOps & Automatisierung
+🤖 KI-gestützte Webentwicklung
+📫 Erreichbar unter:...
+🌍 [...]
+🐦 [Meti_Developer]
+💼 [Meti Neziri]
+🔗 Schau dir meine Projekte an & lass uns connecten! 🚀
