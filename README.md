@@ -1,4 +1,4 @@
-🚀 Hi, I'm [Dein Name]!
+🚀 Hi, I'm [Meti Dev]!
 👨‍💻 Self-Taught Developer | 💡 Tech Enthusiast | 🔐 Cyber Security & Web Dev
 
 💻 Leidenschaft für Full-Stack-Entwicklung & Cyber Security
