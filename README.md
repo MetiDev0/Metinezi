@@ -9,8 +9,6 @@
 🛡️ Web Security & Ethical Hacking
 🔥 DevOps & Automatisierung
 🤖 KI-gestützte Webentwicklung
-📫 Erreichbar unter:...
-🌍 [...]
 🐦 [Meti_Developer]
 💼 [Meti Neziri]
 🔗 Schau dir meine Projekte an & lass uns connecten! 🚀
