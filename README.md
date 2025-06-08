@@ -1,5 +1,8 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/dein-username/dein-username/main/assets/banner.png" alt="Banner" style="width:100%;"/>
+
+![GitHubprofil](https://github.com/user-attachments/assets/ade02d83-5b31-490d-bd4b-2f64fb09000a)
+
+
 
 <h1 align="center">Hallo 👋, ich bin Meti Neziri</h1>
 <h3 align="center">🌐 Professioneller Webentwickler | Spezialisiert auf HTML, CSS, Bootstrap, JavaScript & PHP</h3>
